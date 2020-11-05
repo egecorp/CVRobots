@@ -1,0 +1,10 @@
+F:\shitCoding\Robots\Robots.Console\obj\Debug\Robots.Console.csprojAssemblyReference.cache
+F:\shitCoding\Robots\Robots.Console\obj\Debug\Robots.Console.csproj.CoreCompileInputs.cache
+F:\shitCoding\Robots\Robots.Console\bin\Debug\Robots.Console.exe.config
+F:\shitCoding\Robots\Robots.Console\bin\Debug\Robots.Console.exe
+F:\shitCoding\Robots\Robots.Console\bin\Debug\Robots.Console.pdb
+F:\shitCoding\Robots\Robots.Console\bin\Debug\Robots.dll
+F:\shitCoding\Robots\Robots.Console\bin\Debug\Robots.pdb
+F:\shitCoding\Robots\Robots.Console\obj\Debug\Robots.Console.csproj.CopyComplete
+F:\shitCoding\Robots\Robots.Console\obj\Debug\Robots.Console.exe
+F:\shitCoding\Robots\Robots.Console\obj\Debug\Robots.Console.pdb

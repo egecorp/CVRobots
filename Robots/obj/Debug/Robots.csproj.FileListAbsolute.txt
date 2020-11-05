@@ -1,0 +1,6 @@
+F:\shitCoding\Robots\Robots\bin\Debug\Robots.dll
+F:\shitCoding\Robots\Robots\bin\Debug\Robots.pdb
+F:\shitCoding\Robots\Robots\obj\Debug\Robots.csprojAssemblyReference.cache
+F:\shitCoding\Robots\Robots\obj\Debug\Robots.csproj.CoreCompileInputs.cache
+F:\shitCoding\Robots\Robots\obj\Debug\Robots.dll
+F:\shitCoding\Robots\Robots\obj\Debug\Robots.pdb
